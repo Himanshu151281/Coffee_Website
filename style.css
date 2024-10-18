@@ -695,3 +695,11 @@ footer {
         max-width: 80%;
     }
 }
+
+.fi{
+    color: orange;
+}
+
+.fi:hover{
+    color: white !important;
+}
